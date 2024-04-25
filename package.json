@@ -1,5 +1,5 @@
 {
-  "name": "wormhole",
+  "name": "crew-launchpad",
   "description": "A streaming message queue system for Node.JS focused on performance.",
   "keywords": [
     "message",
@@ -14,7 +14,7 @@
   "homepage": "http://aikar.co/wormhole",
   "repository": {
     "type": "git",
-    "url": "git://github.com/aikar/wormhole.git"
+    "url": "git://github.com/Kumite23/crew-launchpad"
   },
   "author": "Aikar <aikar@aikar.co>",
   "main": "lib/wormhole.js",
